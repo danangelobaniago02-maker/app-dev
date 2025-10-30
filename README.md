@@ -1,2 +1,3 @@
-# app-dev
-My first repository
+# My Favorite Series  
+**Title:** Eat Bulaga
+*Genre:* Comedy
